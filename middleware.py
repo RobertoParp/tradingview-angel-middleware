@@ -6,7 +6,7 @@ from datetime import datetime
 import requests
 import hashlib
 import pyotp
-from SmartApi import SmartConnect
+from smartapi import SmartConnect
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
